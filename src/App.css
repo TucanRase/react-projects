@@ -17,7 +17,16 @@
 }
 
 .services {
-	/* background-image: url("/images/norge.jpg"); */
+	background-image: url("./images/services.jpg");
+	background-position: center;
+	background-size: cover;
+	/* background-repeat: no-repeat; */
+	color: #fff;
+	font-size: 100px;
+}
+
+.products {
+	background-image: url("./images/products.jpg");
 	background-position: center;
 	background-size: cover;
 	background-repeat: no-repeat;
@@ -25,17 +34,8 @@
 	font-size: 100px;
 }
 
-.products {
-	/* background-image: url("/images/norge.jpg"); */
-	background-position: center;
-	background-size: fill;
-	background-repeat: no-repeat;
-	color: #fff;
-	font-size: 100px;
-}
-
 .sign-up {
-	/* background-image: url("/images/norge.jpg"); */
+	background-image: url("./images/signUp.jpg");
 	background-position: center;
 	background-size: cover;
 	background-repeat: no-repeat;
